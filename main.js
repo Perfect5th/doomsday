@@ -1,7 +1,7 @@
 
 'use strict';
 
-const DOOMSDAY = new Date(Date.UTC(2018, 8, 1));
+const DOOMSDAY = new Date(Date.UTC(2018, 7, 31, 20));
 const LAST_WORDS = 'Mitch has left the building';
 
 document.addEventListener('DOMContentLoaded', () => {
